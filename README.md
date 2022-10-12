@@ -1,5 +1,5 @@
 
-<img src = "https://thumbs.dreamstime.com/b/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-illustration-r-welcome-125370796.jpg" width = "10vh height = "5vh" />
+<p align = "center"><img src = "https://thumbs.dreamstime.com/b/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-illustration-r-welcome-125370796.jpg" /></p>
 
 
 
