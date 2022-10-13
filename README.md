@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Php**
 
-- 👯 I’m looking to collaborate on **Python related projects**
+- 👯 I’m looking to collaborate on **Web related projects**
 
 - 💬 Ask me about **Javascript, Html5, Css3, Python, Jquery**
 
