@@ -16,9 +16,9 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **NodeJS, Php**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Web related projects**
 
