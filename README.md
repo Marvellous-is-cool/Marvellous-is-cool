@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Web related projects**
+- 👯 I’m looking to collaborate on **Web & Mobile related projects**
 
-- 💬 Ask me about **Javascript, Html5, Css3, Python, Jquery**
+- 💬 Ask me about **Javascript, Html5, Css3, Python, Jquery, JavaScript Frameworks**
 
 - 📫 How to reach me **adebayoinioluwamarvellous1@gmail.com**
 
