@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marvellous</h1>
-<h3 align="center">A passionate full stack developer and programmer from Nigeria</h3>
+<h3 align="center">A passionate Software & AI developer from Nigeria</h3>
 
 <br /> 
 <br />
@@ -16,11 +16,11 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on **Mobile Development**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Web & Mobile related projects**
+- 👯 I’m looking to collaborate on **Software & Mobile related projects**
 
 - 💬 Ask me about **Javascript, Html5, Css3, Python, Jquery, JavaScript Frameworks**
 
