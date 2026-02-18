@@ -6,9 +6,9 @@
 # Hi there 👋, I'm Marvellous
 
 **Full-Stack Developer | AI & NLP Enthusiast | Linguistics & Communication Background**  
-Based in Nigeria 🌍 | Open to Remote & Contract Opportunities  
+Based in Nigeria 🌍 | Open to Remote & Contract Opportunities 
 
----
+--- ![Marvellous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marvellous-is-cool&show_icons=true)
 
 ## 🚀 About Me
 I’m a self-taught developer with **6+ years of experience** building web, mobile, and AI-driven applications.  
