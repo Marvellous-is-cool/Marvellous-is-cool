@@ -3,43 +3,121 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Marvellous</h1>
-<h3 align="center">A passionate Software & AI developer from Nigeria</h3>
+# Hi there 👋, I'm Marvellous
 
-<br /> 
-<br />
+**Full-Stack Developer | AI & NLP Enthusiast | Linguistics & Communication Background**  
+Based in Nigeria 🌍 | Open to Remote & Contract Opportunities  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marvellous-is-cool&label=Profile%20views&color=0e75b6&style=flat" alt="marvellous-is-cool" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/coolbuoy" target="blank"><img src="https://img.shields.io/twitter/follow/coolbuoy?logo=twitter&style=for-the-badge" alt="coolbuoy" /></a> </p>
+## 🚀 About Me
+I’m a self-taught developer with **6+ years of experience** building web, mobile, and AI-driven applications.  
+I combine **linguistics knowledge** with **full-stack development** to deliver real-world solutions — from interactive web platforms to AI-powered tools.  
 
-<br />
-<br />
+**Tech Stack & Skills:**  
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, TailwindCSS, Next.js  
+- **Backend:** Node.js, Express.js, Python, FastAPI, EJS, REST APIs, Flask, DJANGO,   
+- **Database:** MySQL, PostgreSQL, MongoDB, Firebase, Prisma
+- **AI / NLP:** Chatbots, text processing, AI-powered apps, GPT integrations  
+- **Tools & Deployment:** Git, GitHub, Netlify, Docker basics, Paystack integration, Stripe  
 
-- 🔭 I’m currently working on **Software Development**
+---
 
-- 🌱 I’m currently learning **Rust**
+## 📌 Highlighted Projects
 
-- 👯 I’m looking to collaborate on **Software & Mobile related projects**
+### 1. **Yiniz** – Full-fledged Web Platform
+- **Description:** Comprehensive multi-section platform (games, e-commerce, edu-center, news blog)  
+- **Tech Stack:** Node.js, EJS, MySQL, HTML/CSS, JS  
+- **Features:** User login, payment integration, content management, interactive UI  
+- **Link:** [Repo](https://github.com/marvellous-is-cool/yiniz)
 
-- 💬 Ask me about **Javascript, Html5, Css3, Python, Jquery, JavaScript Frameworks**
+### 2. **BashVote** – Social Voting Platform
+- **Description:** Voting site for the Lincssa Bash Party  
+- **Tech Stack:** Node.js, EJS, MySQL  
+- **Features:** Admin panel, real-time voting, responsive design  
+- **Link:** [Repo](https://github.com/marvellous-is-cool/bashvote)
 
-- 📫 How to reach me **adebayoinioluwamarvellous1@gmail.com**
+### 3. **YoobaAI / YinizAI** – AI & NLP Projects
+- **Description:** AI-powered assistants and ML tools for Yiniz and Yooba platforms  
+- **Tech Stack:** Python, OpenAI APIs, NLP processing  
+- **Features:** Chatbots, prompt automation, text analysis  
+- **Link:** [YoobaAI Repo](https://github.com/marvellous-is-cool/yoobaai) | [YinizAI Repo](https://github.com/marvellous-is-cool/yinizai)
 
-- ⚡ Fun fact **I think I'm funny and fun, i'm just quiet most times**
+### 4. **Imbyher / PartnerAPI / DeliveryAPI** – Client Projects
+- **Description:** Backend and API solutions for clients and real platforms  
+- **Tech Stack:** Python, TypeScript, Node.js, REST APIs  
+- **Features:** Authentication, data processing, API integrations  
+- **Link:** [Imbyher Repo](https://github.com/marvellous-is-cool/imbyher) | [PartnerAPI Repo](https://github.com/marvellous-is-cool/partnerapi)
 
-<h3 align="left">Connect with me:</h3>
+### 5. **Portfolio & Personal Projects**
+- **Portfolio:** [Repo](https://github.com/marvellous-is-cool/portfolio) – showcases work and project demos  
+- **FindJobs:** [Repo](https://github.com/marvellous-is-cool/findjobs) – React Native job finder app  
+
+---
+
+## 📫 How to Reach Me
+- **Email:** [yadebayoinioluwamarvellous1@gmail.com]  
+- **Portfolio:** [marv-port.netlify.app](https://marv-port.netlify.app)  
+- **LinkedIn:** [https://linkedin.com/in/adebayo-inioluwa-m]  
+
+---
+
+## ⚡ Fun Fact
+I combine **linguistics + programming** to build tools most developers overlook. From AI chatbots that understand context to multi-section platforms that serve real users, I make code **communicate**.  
+
+---
+
+### 🛠 Languages & Tools
+
 <p align="left">
-<a href="https://twitter.com/coolbuoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coolbuoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/marvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marvel" height="30" width="40" /></a>
-<a href="https://fb.com/olami bode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olami bode" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagra.com/ola.mi.bode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagra.com/ola.mi.bode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/marvel news" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marvel news" height="30" width="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original-wordmark.svg" alt="ejs" width="40" height="40"/>
+  </a>
 </p>
 
-<br />
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
