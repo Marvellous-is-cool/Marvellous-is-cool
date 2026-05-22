@@ -5,7 +5,7 @@
 
 # Hi there 👋, I'm Marvellous
 
-**Full-Stack Developer | AI & NLP Enthusiast | Linguistics & Communication Background**  
+**Senior Backend Engineer | FastAPI • Django • AI Systems**  
 Based in Nigeria 🌍 | Open to Remote & Contract Opportunities 
 
 <p align="center">
